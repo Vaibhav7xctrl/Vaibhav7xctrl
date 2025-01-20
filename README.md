@@ -1,6 +1,9 @@
 - Hi, I’m @Vaibhav7xctrl
-- I’m interested in.... whatever intrests me, which ranges from low level programming to cloud engineering
-- Fun fact: I make music and I'm in a band.
+- I’m interested in a lot, which ranges from low level programming to cloud engineering.
+- Currently studying Cyber Physical Systems
+- Fun fact: I make music and maybe one day I'll release it.
+- Also I love ragdoll cats🐈
+  
   
 
 <!---
